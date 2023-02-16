@@ -1,0 +1,5 @@
+D:\Projects\WEB PROJECT\Librarymethode\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Projects\WEB PROJECT\Librarymethode\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Projects\WEB PROJECT\Librarymethode\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Projects\WEB PROJECT\Librarymethode\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Projects\WEB PROJECT\Librarymethode\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
